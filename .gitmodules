@@ -1,0 +1,3 @@
+[submodule "main_submodule"]
+	path = main_submodule
+	url = https://github.com/python123server/main_submodule.git
